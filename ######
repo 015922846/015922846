@@ -1,0 +1,44 @@
+- 👋 Hi, I’m @015922846
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+015922846/015922846 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+echo "# 015922846" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/015922846/015922846.git
+git push -u origin main
+$ apt update && apt upgrade -y
+>
+> $ apt install git
+>
+> $ apt install php
+>
+> $ apt install curl
+>
+> $ apt install ruby
+>
+> $ apt install figlet
+>
+> $ apt install python2
+>
+> $ gem install lolcat
+>
+> $ git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+>
+> $ cd TOOLSINSTALLERv3
+>
+> $ chmod +x TUANB4DUT.sh
+>
+> $ sh TUANB4DUT.sh
+___________________________________
+#Facebook&Mate
+Nīth Zxy
+cod/id/gmail/
